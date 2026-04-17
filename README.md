@@ -153,10 +153,10 @@ After running `python seed.py`:
 | Role | Email | Password |
 |---|---|---|
 | Admin | admin@support.com | Admin@123 |
-| Agent | sarah@support.com | agent123 |
-| Agent | james@support.com | agent123 |
-| Customer | alice@example.com | customer123 |
-| Customer | bob@example.com | customer123 |
+| Agent | aish@support.com | agent123 |
+| Agent | abhi@support.com | agent123 |
+| Customer | naru@example.com | customer123 |
+| Customer | krish@example.com | customer123 |
 
 ---
 
